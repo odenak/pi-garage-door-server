@@ -3,14 +3,14 @@
     {
       "name": "Left",
       "desc": "Two car door",
-      "buttonPin": 22,
-      "statusPin": 15
+      "buttonPin": 23,
+      "statusPin": 17
     },
     {
       "name": "Right",
       "desc": "One car door",
-      "buttonPin": 23,
-      "statusPin": 13
+      "buttonPin": 24,
+      "statusPin": 21
     }
   ]
 }
