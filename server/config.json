@@ -1,0 +1,16 @@
+{
+  "doors": [
+    {
+      "name": "Left",
+      "desc": "Two car door",
+      "buttonPin": 22,
+      "statusPin": 15
+    },
+    {
+      "name": "Right",
+      "desc": "One car door",
+      "buttonPin": 23,
+      "statusPin": 13
+    }
+  ]
+}
